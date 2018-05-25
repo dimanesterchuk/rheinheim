@@ -1385,7 +1385,7 @@ body {
 .cid-qT4F9MCvfk {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #f4f8fa;
+  background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-qT4F9MCvfk .content {
@@ -1397,6 +1397,7 @@ body {
 }
 .cid-qT4F9MCvfk .logo-subtitle {
   color: #8d97ad;
+  text-align: center;
 }
 .cid-qT4F9MCvfk .media-wrap {
   padding-bottom: 2rem;
@@ -1476,6 +1477,9 @@ body {
   font-family: MobiriseIcons !important;
   content: '\e966';
   padding-right: .5rem;
+}
+.cid-qT4F9MCvfk .column-title {
+  color: #303090;
 }
 .cid-qT3j58vBRq {
   padding-top: 30px;
